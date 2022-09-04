@@ -1,0 +1,15 @@
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\bin\Debug\net6.0\Sem1Task4.exe
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\bin\Debug\net6.0\Sem1Task4.deps.json
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\bin\Debug\net6.0\Sem1Task4.runtimeconfig.json
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\bin\Debug\net6.0\Sem1Task4.dll
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\bin\Debug\net6.0\Sem1Task4.pdb
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.csproj.AssemblyReference.cache
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.AssemblyInfoInputs.cache
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.AssemblyInfo.cs
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.csproj.CoreCompileInputs.cache
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.dll
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\refint\Sem1Task4.dll
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.pdb
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\Sem1Task4.genruntimeconfig.cache
+C:\Users\Gasanov\Documents\GR3122FR\GR3122FirstProgramming\Sem1Task4\obj\Debug\net6.0\ref\Sem1Task4.dll
