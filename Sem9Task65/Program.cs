@@ -17,7 +17,8 @@ void PrintResult(string line)
 
 string RecMN(int M, int N)
 {
-    if (M >= N) return N.ToString();
+    if (M >= N)
+        return N.ToString();
     return RecMN(M + 1, N) + " " + M;
 }
 
