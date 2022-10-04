@@ -89,3 +89,5 @@ for (int i = 0; i < 10000000; i++)
     out2 = NoRecPow(a, b);
 }
 PrintResult("Решение простое " + (DateTime.Now - d2));
+
+// Вот так заружают репозиторий сохраненный
